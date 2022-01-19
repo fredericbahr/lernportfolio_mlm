@@ -21,7 +21,7 @@ params:
   keywords: [Blog, Portfolio, PaperMod]
   author: "Frederic Bahr"
   DateFormat: "January 2, 2006"
-  defaultTheme: "dark" # dark, light
+  defaultTheme: "auto" # dark, light
   disableThemeToggle: false
 
   ShowReadingTime: true
@@ -44,7 +44,7 @@ params:
 
   label:
     text: "Home"
-    icon: /home.png
+    icon: /lernportofolio/home.png
     iconHeight: 30
 
   # profile-mode

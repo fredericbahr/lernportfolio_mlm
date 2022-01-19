@@ -40,11 +40,11 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "favicon.ico"
+    favicon: "/favicon.ico"
 
   label:
     text: "Home"
-    icon: /lernportfolio/home.png
+    # icon: /lernportfolio/home.png
     iconHeight: 30
 
   # profile-mode

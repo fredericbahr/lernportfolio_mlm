@@ -5,23 +5,221 @@
     <link>https://fredericbahr.github.io/lernportfolio/</link>
     <description>Recent content on Frederic Bahr -Media Lifecycle Management</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 18 Jan 2022 20:46:23 +0100</lastBuildDate><atom:link href="https://fredericbahr.github.io/lernportfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://fredericbahr.github.io/lernportfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My Second Post</title>
-      <link>https://fredericbahr.github.io/lernportfolio/posts/my-second-post/</link>
-      <pubDate>Tue, 18 Jan 2022 20:46:23 +0100</pubDate>
+      <title>Glossar</title>
+      <link>https://fredericbahr.github.io/lernportfolio/posts/glossar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fredericbahr.github.io/lernportfolio/posts/my-second-post/</guid>
-      <description>Vorlesung am </description>
+      <guid>https://fredericbahr.github.io/lernportfolio/posts/glossar/</guid>
+      <description>Glossar über Media Lifecycle Management Begriffe</description>
     </item>
     
     <item>
-      <title>My First Post</title>
-      <link>https://fredericbahr.github.io/lernportfolio/posts/my-first-post/</link>
-      <pubDate>Tue, 18 Jan 2022 20:46:22 +0100</pubDate>
+      <title>Mindmap</title>
+      <link>https://fredericbahr.github.io/lernportfolio/posts/mindmap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fredericbahr.github.io/lernportfolio/posts/my-first-post/</guid>
-      <description>Vorlesung am </description>
+      <guid>https://fredericbahr.github.io/lernportfolio/posts/mindmap/</guid>
+      <description>Mindmap für Media Lifecycle Management Begriffe</description>
+    </item>
+    
+    <item>
+      <title>Vorlesung 12</title>
+      <link>https://fredericbahr.github.io/lernportfolio/posts/vorlesung/vorlesung-12/</link>
+      <pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://fredericbahr.github.io/lernportfolio/posts/vorlesung/vorlesung-12/</guid>
+      <description>Verfasst am 19. Januar 2022</description>
+    </item>
+    
+    <item>
+      <title>Seminar 11</title>
+      <link>https://fredericbahr.github.io/lernportfolio/posts/seminar/seminar-11/</link>
+      <pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://fredericbahr.github.io/lernportfolio/posts/seminar/seminar-11/</guid>
+      <description>Verfasst am 19. Januar 2022</description>
+    </item>
+    
+    <item>
+      <title>Vorlesung 11</title>
+      <link>https://fredericbahr.github.io/lernportfolio/posts/vorlesung/vorlesung-11/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://fredericbahr.github.io/lernportfolio/posts/vorlesung/vorlesung-11/</guid>
+      <description>Verfasst am 13. Januar 2022</description>
+    </item>
+    
+    <item>
+      <title>Seminar 10</title>
+      <link>https://fredericbahr.github.io/lernportfolio/posts/seminar/seminar-10/</link>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://fredericbahr.github.io/lernportfolio/posts/seminar/seminar-10/</guid>
+      <description>Verfasst am 11. Januar 2022</description>
+    </item>
+    
+    <item>
+      <title>Vorlesung 10</title>
+      <link>https://fredericbahr.github.io/lernportfolio/posts/vorlesung/vorlesung-10/</link>
+      <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://fredericbahr.github.io/lernportfolio/posts/vorlesung/vorlesung-10/</guid>
+      <description>Verfasst am 11. Januar 2022</description>
+    </item>
+    
+    <item>
+      <title>Seminar 9</title>
+      <link>https://fredericbahr.github.io/lernportfolio/posts/seminar/seminar-9/</link>
+      <pubDate>Thu, 16 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fredericbahr.github.io/lernportfolio/posts/seminar/seminar-9/</guid>
+      <description>Verfasst am 20. Dezember 2021</description>
+    </item>
+    
+    <item>
+      <title>Vorlesung 9</title>
+      <link>https://fredericbahr.github.io/lernportfolio/posts/vorlesung/vorlesung-9/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fredericbahr.github.io/lernportfolio/posts/vorlesung/vorlesung-9/</guid>
+      <description>Verfasst am 20. Dezember 2021</description>
+    </item>
+    
+    <item>
+      <title>Seminar 8</title>
+      <link>https://fredericbahr.github.io/lernportfolio/posts/seminar/seminar-8/</link>
+      <pubDate>Thu, 09 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fredericbahr.github.io/lernportfolio/posts/seminar/seminar-8/</guid>
+      <description>Verfasst am 15. Dezember 2021</description>
+    </item>
+    
+    <item>
+      <title>Vorlesung 8</title>
+      <link>https://fredericbahr.github.io/lernportfolio/posts/vorlesung/vorlesung-8/</link>
+      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fredericbahr.github.io/lernportfolio/posts/vorlesung/vorlesung-8/</guid>
+      <description>Verfasst am  15. Dezember 2021</description>
+    </item>
+    
+    <item>
+      <title>Seminar 7</title>
+      <link>https://fredericbahr.github.io/lernportfolio/posts/seminar/seminar-7/</link>
+      <pubDate>Thu, 02 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fredericbahr.github.io/lernportfolio/posts/seminar/seminar-7/</guid>
+      <description>Verfasst am 02. Dezember 2021</description>
+    </item>
+    
+    <item>
+      <title>Vorlesung 7</title>
+      <link>https://fredericbahr.github.io/lernportfolio/posts/vorlesung/vorlesung-7/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fredericbahr.github.io/lernportfolio/posts/vorlesung/vorlesung-7/</guid>
+      <description>Verfasst am 02. Dezember 2021</description>
+    </item>
+    
+    <item>
+      <title>Seminar 6</title>
+      <link>https://fredericbahr.github.io/lernportfolio/posts/seminar/seminar-6/</link>
+      <pubDate>Thu, 25 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fredericbahr.github.io/lernportfolio/posts/seminar/seminar-6/</guid>
+      <description>Verfasst am 28. November 2021</description>
+    </item>
+    
+    <item>
+      <title>Vorlesung 6</title>
+      <link>https://fredericbahr.github.io/lernportfolio/posts/vorlesung/vorlesung-6/</link>
+      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fredericbahr.github.io/lernportfolio/posts/vorlesung/vorlesung-6/</guid>
+      <description>Verfasst am 28. November 2021</description>
+    </item>
+    
+    <item>
+      <title>Seminar 5</title>
+      <link>https://fredericbahr.github.io/lernportfolio/posts/seminar/seminar-5/</link>
+      <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fredericbahr.github.io/lernportfolio/posts/seminar/seminar-5/</guid>
+      <description>Verfasst am 23. November 2021</description>
+    </item>
+    
+    <item>
+      <title>Seminar 4</title>
+      <link>https://fredericbahr.github.io/lernportfolio/posts/seminar/seminar-4/</link>
+      <pubDate>Thu, 11 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fredericbahr.github.io/lernportfolio/posts/seminar/seminar-4/</guid>
+      <description>Verfasst am 23. November 2021</description>
+    </item>
+    
+    <item>
+      <title>Vorlesung 4</title>
+      <link>https://fredericbahr.github.io/lernportfolio/posts/vorlesung/vorlesung-4/</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fredericbahr.github.io/lernportfolio/posts/vorlesung/vorlesung-4/</guid>
+      <description>Verfasst am 23. November 2021</description>
+    </item>
+    
+    <item>
+      <title>Seminar 3</title>
+      <link>https://fredericbahr.github.io/lernportfolio/posts/seminar/seminar-3/</link>
+      <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fredericbahr.github.io/lernportfolio/posts/seminar/seminar-3/</guid>
+      <description>Verfasst am 04. November 2021</description>
+    </item>
+    
+    <item>
+      <title>Vorlesung 3</title>
+      <link>https://fredericbahr.github.io/lernportfolio/posts/vorlesung/vorlesung-3/</link>
+      <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fredericbahr.github.io/lernportfolio/posts/vorlesung/vorlesung-3/</guid>
+      <description>Verfasst am 04. November 2021</description>
+    </item>
+    
+    <item>
+      <title>Seminar 2</title>
+      <link>https://fredericbahr.github.io/lernportfolio/posts/seminar/seminar-2/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fredericbahr.github.io/lernportfolio/posts/seminar/seminar-2/</guid>
+      <description>Verfasst am 21. Oktober 2021</description>
+    </item>
+    
+    <item>
+      <title>Vorlesung 2</title>
+      <link>https://fredericbahr.github.io/lernportfolio/posts/vorlesung/vorlesung-2/</link>
+      <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fredericbahr.github.io/lernportfolio/posts/vorlesung/vorlesung-2/</guid>
+      <description>Verfasst am 21. Oktober 2021</description>
+    </item>
+    
+    <item>
+      <title>Seminar 1</title>
+      <link>https://fredericbahr.github.io/lernportfolio/posts/seminar/seminar-1/</link>
+      <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fredericbahr.github.io/lernportfolio/posts/seminar/seminar-1/</guid>
+      <description>Verfasst am 17. Oktober 2021</description>
+    </item>
+    
+    <item>
+      <title>Vorlesung 1</title>
+      <link>https://fredericbahr.github.io/lernportfolio/posts/vorlesung/vorlesung-1/</link>
+      <pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fredericbahr.github.io/lernportfolio/posts/vorlesung/vorlesung-1/</guid>
+      <description>Verfasst am 17. Oktober 2021</description>
     </item>
     
     

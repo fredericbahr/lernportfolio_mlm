@@ -20,7 +20,7 @@ params:
   description: "Media Information Lifecycle"
   keywords: [Blog, Portfolio, PaperMod]
   author: "Frederic Bahr"
-  DateFormat: "January 2, 2006"
+  # DateFormat: "2. Januar 2006"
   defaultTheme: "auto" # dark, light
   disableThemeToggle: false
 
@@ -54,8 +54,13 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Media Lifecycle Management Lernportfolio"
-    Content: "Weiter unten finden Sie die einzelnen Beiträge zu den Vorlesungen und Seminaren. \U0001F447"
-
+    Content: >
+      Weiter unten finden Sie die einzelnen Beiträge zu den Vorlesungen und Seminaren. 👇
+      
+      - Die Lernveranstaltungen sind entsprechend numeriert.
+      
+      - Innerhalb der Liste wird das jeweilige Datum der Veranstaltung angezeigt, im Post selbst befindet sich das Verfassungsdatum.
+    
   cover:
     hidden: true # hide everywhere but not in structured data
     hiddenInList: true # hide on list pages and home

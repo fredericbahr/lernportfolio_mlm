@@ -2,14 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://fredericbahr.github.io/lernportfolio/</loc>
+    <lastmod>2022-01-18T20:46:22+01:00</lastmod>
+  </url><url>
+    <loc>https://fredericbahr.github.io/lernportfolio/posts/my-first-post/</loc>
+    <lastmod>2022-01-18T20:46:22+01:00</lastmod>
+  </url><url>
+    <loc>https://fredericbahr.github.io/lernportfolio/posts/</loc>
+    <lastmod>2022-01-18T20:46:22+01:00</lastmod>
+  </url><url>
+    <loc>https://fredericbahr.github.io/lernportfolio/tags/</loc>
+    <lastmod>2022-01-18T20:46:22+01:00</lastmod>
+  </url><url>
+    <loc>https://fredericbahr.github.io/lernportfolio/tags/vorlesung/</loc>
+    <lastmod>2022-01-18T20:46:22+01:00</lastmod>
+  </url><url>
     <loc>https://fredericbahr.github.io/lernportfolio/archive/</loc>
   </url><url>
     <loc>https://fredericbahr.github.io/lernportfolio/categories/</loc>
   </url><url>
-    <loc>https://fredericbahr.github.io/lernportfolio/</loc>
-  </url><url>
     <loc>https://fredericbahr.github.io/lernportfolio/search/</loc>
-  </url><url>
-    <loc>https://fredericbahr.github.io/lernportfolio/tags/</loc>
   </url>
 </urlset>

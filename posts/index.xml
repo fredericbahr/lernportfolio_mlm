@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Frederic Bahr -Media Lifecycle Management</title>
-    <link>https://fredericbahr.github.io/lernportfolio/</link>
-    <description>Recent content on Frederic Bahr -Media Lifecycle Management</description>
+    <title>Posts on Frederic Bahr -Media Lifecycle Management</title>
+    <link>https://fredericbahr.github.io/lernportfolio/posts/</link>
+    <description>Recent content in Posts on Frederic Bahr -Media Lifecycle Management</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 18 Jan 2022 20:46:22 +0100</lastBuildDate><atom:link href="https://fredericbahr.github.io/lernportfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Jan 2022 20:46:22 +0100</lastBuildDate><atom:link href="https://fredericbahr.github.io/lernportfolio/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
       <link>https://fredericbahr.github.io/lernportfolio/posts/my-first-post/</link>
@@ -14,8 +14,6 @@
       <guid>https://fredericbahr.github.io/lernportfolio/posts/my-first-post/</guid>
       <description>Vorlesung am </description>
     </item>
-    
-    
     
   </channel>
 </rss>

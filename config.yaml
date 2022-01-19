@@ -44,7 +44,7 @@ params:
 
   label:
     text: "Home"
-    icon: /lernportofolio/home.png
+    icon: /lernportfolio/home.png
     iconHeight: 30
 
   # profile-mode

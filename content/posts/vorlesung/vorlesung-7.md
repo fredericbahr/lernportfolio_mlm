@@ -4,6 +4,7 @@ date: "2021-12-01"
 description: "Verfasst am 02. Dezember 2021"
 draft: false
 tags: ["Vorlesung"]
+summary: In dieser Vorlesung haben wir uns mit dem Tool OpenRefine beschäftigt, um Daten zu bearbeiten, zu bereinigen oder zu entfernen. Überrascht hat mich die doch komplizierte Installation von OpenRefine unter Windows, wo eine ZIP-Datei gedownloadet und entpackt werden muss und die RDF-Extension im richtigen Ordner, mit richtigem Namen abzulegen war. Hier wäre eine Installation per Wizard oder per CLI wünschenswert. Leider hat dieser Teil auch den Großteil der Vorlesung in Anspruch genommen, sodass wenig Zeit für die praktische Auseinandersetzung mit dem Tool an sich blieb. Jedoch konnte ich das Potenzial von OpenRefine erkennen und war überrascht von der Anzahl an built-in Methoden, um die Daten zu bearbeiten und zu bereinigen. Auch die Verwendung des RDF-Plugins um die Tabelle (Daten) in RDF-Triple umzuwandeln, war hilfreich und verdeutlichte die Einsatzmöglichkeiten dieses Tools in der Praxis. Der mangelnden Zeit schulden will/müsste ich mich aber noch intensiver mit diesem Tool beschäftigen."
 ---
 
 {{% quizQuestion %}}

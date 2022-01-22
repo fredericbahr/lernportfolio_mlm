@@ -4,6 +4,11 @@ date: "2022-01-05"
 description: "Verfasst am 11. Januar 2022"
 draft: false
 tags: ["Vorlesung"]
+summary: "Die Vorlesung behandelte die Thematik Linked Data und Verlinkung von Ressourcen. Dabei habe ich neben den Kernelementen vor allem die fünf Sterne der Open Data kennengelernt, die von Tim Berners-Lee definiert wurden. Ebenso haben wir uns als Kurs dem Thema Content Negotiation genähert.
+
+Besonders überrascht hat mich, dass proprietäre Dateiformate und Standarddateiformate wie CSV schon unter dem Gesichtspunkt von Linked Data betrachtet werden können. Für mich persönlich war ebenfalls ein Kerngewinn dieser Vorlesung, dass die Vorteile der Verlinkung für die Maschinenenlesbarkeit und Verknüpfung/Aggregation von Daten einen großen Nachteil mit sich zieht: Die Erstellung solcher Informationen/Daten beansprucht deutlich mehr Zeit und ist meist komplexer als die Verwendung von proprietären Dateiformaten oder unstrukturierten Daten. 
+
+Mich würde weiterhin interessieren, welche Software es bereits gibt, um die Erstellung solcher verlinkter Daten zu generieren und ob diese für die breite Masse an Internetnutzern benutzerfreundlich ist. Dies wäre aus meiner Sicht ein guter Ausgangspunkt für weitere Recherche oder Projekte. Die Content Negotiation war mir bereits bekannt, leider fand ich die Stelle in der Vorlesung etwas fragwürdig, da wir in vorherigen Beispielen in diesem Modul bereits die Content Negotiation erlebt haben und dies entweder früher einige Fragezeichen aufgeworfen hat oder zum Zeitpunkt dieser Vorlesung Wiederholung war."
 ---
 
 {{% quizQuestion %}}

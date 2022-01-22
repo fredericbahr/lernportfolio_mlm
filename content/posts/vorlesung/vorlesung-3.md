@@ -2,8 +2,12 @@
 title: "Vorlesung 3"
 date: "2021-11-03"
 description: "Verfasst am 04. November 2021"
-draft: true
+draft: false
 tags: ["Vorlesung"]
+summary: "In der Vorlesung habe ich gelernt, wie die einzelnen Fachtermini LOD, Semantic Web, Web of Data und RDF in Verbindung miteinander stehen. Reflektiert betrachtet, erkenne ich, dass mir persönlich Grafiken/Mindmaps enorm helfen um Verbindungen zu erkennen und diese zu verinnerlichen.
+
+Ebenso lernte ich, wie mithilfe des Resource Description Framework (RDF) Ressourcen beschrieben und verlinkt werden können. Dabei werden Triples bestehend aus einem Subjekt, Prädikat und Objekt definiert, die über URIs definiert werden und eine logische Aussage über die Ressource treffen.
+Die Definition von RDF Schemata wurde nur angerissen, sodass noch kein richtiges Verständnis für diese Technologie entstehen konnte. Ich hoffe dies wird in der nächsten Vorlesung weiter behandelt, ansonsten möchte ich etwas Zeit für die Recherche außerhalb der Lehrveranstaltungen in diese Technologie investieren."
 ---
 {{% quizQuestion %}}
 **Frage:** Wie kann mithilfe von RDF eine Ressource beschrieben werden und welche Eigenschaften besitzt diese Beschreibungsmöglichkeit?

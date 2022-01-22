@@ -1,0 +1,50 @@
+{{ $_hugo_config := `{ "version": 1 }` }}
+<style>
+    div .quizQuestion {
+        margin: 2rem 0;
+        position: relative;
+
+        border-radius: .2rem;
+        border: 1px solid var(--border);
+        color: var(--primary);
+        padding: .5rem 1rem .5rem 2rem;
+    }
+
+    div.quizQuestion p {
+        padding: 0px;
+        display: block;
+        font-size: 1rem;
+        margin-top: 0rem;
+        margin-bottom: 0rem;
+    }
+
+    div.quizQuestion p:first-child:before {
+        position: absolute;
+        top: -27px;
+        color: var(--primary);
+        font-family: FontAwesome;
+        left: 10px;
+    }
+
+    div.quizQuestion p:first-child:after {
+        position: absolute;
+        top: -27px;
+        color: var(--primary);
+        left: 2rem;
+    }
+
+    div.quizQuestion p:first-child:after {
+        color: var(--primary);
+        content: 'Quiz-Frage';
+    }
+
+    div.quizQuestion {
+        border-top: 30px solid var(--border);
+        background: var(--theme);
+        color: var(--primary) !important;
+    }
+</style>
+
+<div class="quizQuestion {{ .Get 0 }}" {{ if len .Params | eq 2 }} id="{{ .Get 1 }}" {{ end }}>
+    <p>{{ .Inner }}</p>
+</div>

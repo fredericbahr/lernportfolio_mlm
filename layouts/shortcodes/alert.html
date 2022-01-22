@@ -1,0 +1,50 @@
+{{ $_hugo_config := `{ "version": 1 }` }}
+<style>
+    div .alert {
+        margin: 2rem 0;
+        position: relative;
+
+        border-radius: .2rem;
+        border: 1px solid #843838;
+        color: #ffffff;
+        padding: .5rem 1rem .5rem 2rem;
+    }
+
+    div.alert p {
+        padding: 0px;
+        display: block;
+        font-size: 1rem;
+        margin-top: 0rem;
+        margin-bottom: 0rem;
+    }
+
+    div.alert p:first-child:before {
+        position: absolute;
+        top: -27px;
+        color: #ffffff;
+        font-family: FontAwesome;
+        left: 10px;
+    }
+
+    div.alert p:first-child:after {
+        position: absolute;
+        top: -27px;
+        color: #ffffff;
+        left: 2rem;
+    }
+
+    div.alert p:first-child:after {
+        color: #ffffff;
+        content: 'Achtung';
+    }
+
+    div.alert {
+        border-top: 30px solid #843838;
+        background: var(--theme);
+        color: var(--primary) !important;
+    }
+</style>
+
+<div class="alert {{ .Get 0 }}" {{ if len .Params | eq 2 }} id="{{ .Get 1 }}" {{ end }}>
+    <p>{{ .Inner }}</p>
+</div>

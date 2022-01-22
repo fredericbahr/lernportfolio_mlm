@@ -1,8 +1,8 @@
 ---
-title: "Reflexion"
+title: "Reflexion Seminar"
 weight: 1
 description: >
-    Reflexion der gesamten Lernveranstaltung
+    Reflexion des gesamten Seminars
 
     - Verfasst am . Januar 2022
 draft: true

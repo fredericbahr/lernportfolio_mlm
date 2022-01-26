@@ -5,15 +5,26 @@
     <link>https://fredericbahr.github.io/lernportfolio/</link>
     <description>Recent content on Frederic Bahr -Media Lifecycle Management</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 19 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://fredericbahr.github.io/lernportfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://fredericbahr.github.io/lernportfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Reflexion</title>
-      <link>https://fredericbahr.github.io/lernportfolio/posts/reflexion/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Reflexion Seminar</title>
+      <link>https://fredericbahr.github.io/lernportfolio/posts/reflexion-seminar/</link>
+      <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://fredericbahr.github.io/lernportfolio/posts/reflexion/</guid>
-      <description>Reflexion der gesamten Lernveranstaltung
-- Verfasst am . Januar 2022
+      <guid>https://fredericbahr.github.io/lernportfolio/posts/reflexion-seminar/</guid>
+      <description>Reflexion des gesamten Seminars
+- Verfasst am 22. Januar 2022
+</description>
+    </item>
+    
+    <item>
+      <title>Reflexion Vorlesung</title>
+      <link>https://fredericbahr.github.io/lernportfolio/posts/reflexion-vorlesung/</link>
+      <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://fredericbahr.github.io/lernportfolio/posts/reflexion-vorlesung/</guid>
+      <description>Reflexion der gesamten Vorlesung
+- Verfasst am 22. Januar 2022
 </description>
     </item>
     
@@ -33,6 +44,24 @@
       
       <guid>https://fredericbahr.github.io/lernportfolio/posts/mindmap/</guid>
       <description>Mindmap für Media Lifecycle Management Begriffe</description>
+    </item>
+    
+    <item>
+      <title>Vorlesung 13</title>
+      <link>https://fredericbahr.github.io/lernportfolio/posts/vorlesung/vorlesung-13/</link>
+      <pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://fredericbahr.github.io/lernportfolio/posts/vorlesung/vorlesung-13/</guid>
+      <description>Verfasst am . Januar 2022</description>
+    </item>
+    
+    <item>
+      <title>Seminar 12</title>
+      <link>https://fredericbahr.github.io/lernportfolio/posts/seminar/seminar-12/</link>
+      <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://fredericbahr.github.io/lernportfolio/posts/seminar/seminar-12/</guid>
+      <description>Verfasst am</description>
     </item>
     
     <item>

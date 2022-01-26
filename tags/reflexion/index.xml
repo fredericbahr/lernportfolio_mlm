@@ -4,15 +4,27 @@
     <title>Reflexion on Frederic Bahr -Media Lifecycle Management</title>
     <link>https://fredericbahr.github.io/lernportfolio/tags/reflexion/</link>
     <description>Recent content in Reflexion on Frederic Bahr -Media Lifecycle Management</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://fredericbahr.github.io/lernportfolio/tags/reflexion/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 22 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://fredericbahr.github.io/lernportfolio/tags/reflexion/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Reflexion</title>
-      <link>https://fredericbahr.github.io/lernportfolio/posts/reflexion/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Reflexion Seminar</title>
+      <link>https://fredericbahr.github.io/lernportfolio/posts/reflexion-seminar/</link>
+      <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://fredericbahr.github.io/lernportfolio/posts/reflexion/</guid>
-      <description>Reflexion der gesamten Lernveranstaltung
-- Verfasst am . Januar 2022
+      <guid>https://fredericbahr.github.io/lernportfolio/posts/reflexion-seminar/</guid>
+      <description>Reflexion des gesamten Seminars
+- Verfasst am 22. Januar 2022
+</description>
+    </item>
+    
+    <item>
+      <title>Reflexion Vorlesung</title>
+      <link>https://fredericbahr.github.io/lernportfolio/posts/reflexion-vorlesung/</link>
+      <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://fredericbahr.github.io/lernportfolio/posts/reflexion-vorlesung/</guid>
+      <description>Reflexion der gesamten Vorlesung
+- Verfasst am 22. Januar 2022
 </description>
     </item>
     

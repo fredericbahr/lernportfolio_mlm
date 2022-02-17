@@ -6,7 +6,7 @@ draft: false
 tags: ["Seminar"]
 ---
 
-Das Seminar hat unsere Arbeitsgruppe dafür verwendet, um Möglichkeiten der Bearbeitung in der Postproduktion von Filmen zu recherchieren. Ebenfalls haben wir uns damit beschäftigt, welche (kommerzielle) professionelle Bearbeitungssoftware für die Postproduktion angeboten wird. Abschließend haben wir zu den typischen Bearbeitungsschritten in der Postproduktion recherchiert und eine graphische Darstellung des Workflows gefunden. Viele der Videoschnittsoftware kannte ich bereits aus eigenen Erfahrungen (Hobby, Studium generale, etc.) und kenne mich mit einer dieser Software (Davinci Resolve) besser aus. 
+Das Seminar hat unsere Arbeitsgruppe dafür verwendet, die Möglichkeiten der Bearbeitung in der Postproduktion von Filmen zu recherchieren. Ebenfalls haben wir uns damit beschäftigt, welche (kommerzielle) professionelle Bearbeitungssoftware für die Postproduktion angeboten wird. Abschließend haben wir zu den typischen Bearbeitungsschritten in der Postproduktion recherchiert und eine graphische Darstellung des Workflows gefunden. Viele der Videoschnittsoftware kannte ich bereits aus eigenen Erfahrungen (Hobby, Studium generale, etc.) und kann eine gewisse Expertise in einer der Softwares (Davinci Resolve) vorweisen. 
 
 Interessant war jedoch die Recherche und der Austausch mit den Gruppenmitgliedern über die typischen Bearbeitungsschritte bzw. -reihenfolge. Hier gab es einige kontroverse Meinungen, die sich nach unseren gemeinsamer Nachforschung allesamt als richtig erwiesen haben. Neu für mich war jedoch die Möglichkeiten zur parallelen Verarbeitung in unterschiedlichen Teams.
 

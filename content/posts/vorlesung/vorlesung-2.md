@@ -2,7 +2,7 @@
 title: "Vorlesung 2"
 date: "2021-10-20"
 description: "Verfasst am 21. Oktober 2021"
-draft: true
+draft: false
 tags: ["Vorlesung"]
 summary: "In dieser Vorlesung habe ich gelernt, dass Bibliotheken sich durch die Digitalisierung von reinen analogen Wissenssammlungen für einige Wenige hin zu einer Wissens- und Kommunikationsschnittstelle für die gesamte Gesellschaft entwickelt haben.
 
@@ -13,7 +13,7 @@ Leider wurde diese grundlegende Technologie häufig am Anfang der Vorlesung verw
 
 {{% quizQuestion %}}
 **Frage:** Wofür steht das Akronym RDF und welche Rolle spielt es im Semantic Web.
-    
+
 **Antwort:** RDF steht für Resource Description Framework und ist eine grundlegende Technologie des Semantic Webs und beschreibt logische Aussagen über Ressourcen.
 {{% /quizQuestion %}}
 

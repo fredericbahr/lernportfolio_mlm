@@ -26,7 +26,10 @@ Quizfrage: Wofür steht das Akronym FAIR und was sind die Kernelemente der einze
 **Antwort:** Durch die Verwendung von URIs bzw. IRIs ermöglicht man die Verlinkung auf seine Ressourcen. Verlinkt man ebenfalls auf andere Daten, so können Nutzer einen Kontext zu seinen Informationen herstellen und durch die Verlinkung trägt man zu dem sogenannten Netzwerkeffekt bei. Ebenfalls kann durch die Verlinkung verwandtes Wissen aggregiert werden.
 {{% /answeredQuestion %}}
 
-In der Vorlesungen haben wir  zunächst die FAIR-Prinzipien für Daten vertieft. Anschließend haben wir betrachtet, mit welchen Hilfsmitteln Daten klassifiziert und angereichert werden können. Erstaunlich war die Erkenntnis, dass eine spezifischere Klassifikation meist auch eine Anreicherung darstellt. Mir haben diekleinen Demobeispiele zu einigen Tools gefallen, da dies die Vorlesung aufgelockerten und praktische Aspekte vermittelten. 
+In der Vorlesungen haben wir  zunächst die FAIR-Prinzipien für Daten vertieft. Anschließend haben wir betrachtet, mit welchen Hilfsmitteln Daten klassifiziert und angereichert werden können. Erstaunlich war die Erkenntnis, dass eine spezifischere Klassifikation meist auch eine Anreicherung darstellt. Mir haben diekleinen Demobeispiele zu einigen Tools gefallen, da dies die Vorlesung aufgelockerten und praktische Aspekte vermittelten.
+
+![FAIR-Data](/lernportfolio/FAIR-principles.png "FAIR-Data")
+Quelle: https://api.thehyve.nl/uploads/FAIR-principles.png
 
 Weiterhin haben wir uns mit der Datenqualität beschäftigt bzw. welche Auswirkungen aus schlechter Datenqualität resultieren können und welche Metriken zur Messung der Datenqualität vorliegen. Spannend fand ich die Erläuterungen über die verschiedenen Herausforderungen und Möglichkeiten der verteilten Zusammenarbeit innerhalb der Doktorandenarbeit von Herrn Dr. Arndt. Dies ermöglichte Einblicke in das Forschungsgebiet von Herrn Dr. Arndt und verdeutlichte erneut die praktische Relevanz des Moduls.
 

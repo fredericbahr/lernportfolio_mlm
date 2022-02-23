@@ -40,3 +40,5 @@ Im Rahmen der Vorlesung haben wir uns mit dem Tool OpenRefine beschäftigt, um D
 
 Nachtrag: Die weitere Auseinandersetzung hat sich als praktisch erwiesen, da so im Vortrag der essenca GmbH einige Parallelen zwischen OpenRefine und essencas Extraktion von Daten und Generierung von RDF Triples erwiesen hat.
 
+![OpenRefine](/lernportfolio/openrefine.png "OpenRefine")
+Quelle: https://multimedia.journalism.berkeley.edu/wp-content/uploads/openrefine0.png

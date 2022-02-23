@@ -7,5 +7,5 @@ tags: ["Seminar"]
 ---
 
 {{%  alert %}}
-Aufgrund von Krankheit konnte ich lieder nicht teilnehmen.
+Aufgrund von Krankheit konnte ich leider nicht teilnehmen.
 {{%  /alert %}}
